@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 
 ### Tech Stack
 
-- Golang, Python
-- MySQL, Redis
+- Language: `Golang`, `Python`
+- Middleware:`MySQL`,` Redis`
 
 ### Learning
 
-- Apache RocketMQ
+- `Apache RocketMQ`
 
 ### Website
 
