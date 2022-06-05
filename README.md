@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Personal Info
+
+- Name: 田进财（JincaiTian）
+- Region: Hubei, China
+
+### Tech Stack
+
+- Golang, Python
+- MySQL, Redis
+
+### Learning
+
+- Apache RocketMQ
+
+### Website
+
+https://blog.tianjincai.cn
+
+### Contact With Me
+
+tianjincai@hotmail.com
+
