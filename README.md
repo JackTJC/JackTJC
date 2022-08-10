@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### Website
 
-https://blog.tianjincai.cn
+https://tianjincai.cn
 
 ### Contact With Me
 
