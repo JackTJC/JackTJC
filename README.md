@@ -1,6 +1,9 @@
-### Hi there 👋
+### 👋 Hi there 
 
-I am Jincai (田进财), in Hubei, China, working on server development engineer. 
+I am Chintsai
+
+### 🔭 Working
+I am a backend engineer in a software company
 
 <!--
 **JackTJC/JackTJC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,20 +20,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Tech Stack
+### 🌱 Tech Stack
 
 - Language: `Golang`, `Python`
 - Middleware:`MySQL`,` Redis`
 
-### Learning
 
-- `Apache RocketMQ`
-
-### Website
-
-https://tianjincai.cn
-
-### Contact With Me
+### 📫 How to reach me
 
 tianjincai@hotmail.com
 
