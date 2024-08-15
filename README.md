@@ -1,11 +1,19 @@
-### 👋 Hi there 
+👋 Hi there!!! I'm Chintsai
 
-I am Chintsai
 
-### 🔭 Working
-I am a backend engineer in a software company
+### 👨‍💻 **Doing now**
+- 🧳 Engineer in a software company
+- 💑 Fall in love with my girlfriend
 
-# Hobby
 
-# 📫 Reach me
+
+### 🕹️ **Hobby**
+- 📷 Photography
+- 🎮 Computer Games
+- 🏖 Travel
+- 👨‍🍳‍ Cooking
+
+
+
+### 📫 Reach me
 - Email: tianjincai@hotmail.com
