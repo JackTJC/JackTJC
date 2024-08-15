@@ -5,7 +5,7 @@ I am Chintsai
 ### 🔭 Working
 I am a backend engineer in a software company
 
-### 📫 How to reach me
+# Hobby
 
-tianjincai@hotmail.com
-
+# 📫 Reach me
+- Email: tianjincai@hotmail.com
